@@ -43,7 +43,7 @@ Our solution aims to automate and improve decision-making in these areas using A
 - **Integrations:** Jira, GitHub, Slack/Microsoft Teams (for chatbot)
 
 ---
-🚧 Status
+## 🚧 Status
 Currently in development. Initial planning, design, and architecture setup completed. Core models and integrations in progress.
 
 📈 Future Scope
